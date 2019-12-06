@@ -24,7 +24,7 @@
 |LTC|✔️|✔️|✔️||
 |QTUM(QRC20)|✔️|✔️|✔️|[TX](https://qtum.info/misc/raw-tx)|
 |ONT/ONG|✔️|✔️|✔️||
-|TRX|✔️|✔️|✔️|[TX](https://tronscan.org/#/tools/transaction-viewer)|
+|TRX(TRC10&20)|✔️|✔️|✔️|[TX](https://tronscan.org/#/tools/transaction-viewer)|
 |USDT|✔️|✔️|✔️|[TX](https://live.blockcypher.com/btc/decodetx/)、[TX 2](https://blockchair.com/broadcast)|
 |XRP|✔️|✔️|✔️|[TXScan](https://xrpscan.com/tx/76E763E78D6B70BC675387DC73D42A1FD4349D2AFBDA3D14C3ABE4082C2D9AD9)|
 |CKB|✔️|✔️|✔️|[TXScan](https://explorer.nervos.org/)、[TX](https://explorer.nervos.org/transaction/0x25cfdba5370769e60110199f4bb6f5ffc03ac86841b82ef3f7ff3e7900ef8156)|
