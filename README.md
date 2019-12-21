@@ -31,3 +31,5 @@
 |XLM|✔️|✔️||[TX](https://stellarscan.io/transaction/a818d285ff1622a3fb699bb3bfc44bee71692d1978f215491b72a4f4b29f5548)|
 |XMR|||||
 |ZCASH(ZEC)|✔️|✔️|✔️||
+
+![](https://github.com/MacOMNI/BlockChainWallet/blob/master/wallet_portion_supported.jpg)
